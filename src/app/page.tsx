@@ -175,10 +175,10 @@ export default function LandingPage() {
           buttonAnimation="blur-reveal"
           features={[
             {
-              id: "proven-strategies",              title: "Proven Trading Strategies",              description: "Learn strategies that work in real market conditions, tested by professional traders with consistent profits",              tag: "Tested Methods",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AzNZNfYLOTAUE3v2Uk0ml3hSFX/advanced-trading-strategy-visualization--1773591631424-de9035fe.png",              imageAlt: "Advanced trading strategy analysis"
+              id: "proven-strategies",              title: "Proven Trading Strategies",              description: "Learn strategies that work in real market conditions, tested by professional traders with consistent profits",              tag: "Tested Methods",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AzNZNfYLOTAUE3v2Uk0ml3hSFX/advanced-trading-strategy-visualization--1773591631424-de9035fe.png?_wi=1",              imageAlt: "Advanced trading strategy analysis"
             },
             {
-              id: "live-sessions",              title: "Live Market Sessions",              description: "Join real-time trading sessions where you see professional traders executing strategies in live markets",              tag: "Real Market Action",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AzNZNfYLOTAUE3v2Uk0ml3hSFX/advanced-trading-strategy-visualization--1773591631424-de9035fe.png",              imageAlt: "Live market trading session"
+              id: "live-sessions",              title: "Live Market Sessions",              description: "Join real-time trading sessions where you see professional traders executing strategies in live markets",              tag: "Real Market Action",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AzNZNfYLOTAUE3v2Uk0ml3hSFX/advanced-trading-strategy-visualization--1773591631424-de9035fe.png?_wi=2",              imageAlt: "Live market trading session"
             },
             {
               id: "beginner-friendly",              title: "Beginner Friendly Training",              description: "Start from zero trading knowledge. Our curriculum progressively builds your skills step by step",              tag: "Easy Start",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AzNZNfYLOTAUE3v2Uk0ml3hSFX/visual-representation-of-beginner-tradin-1773591631548-4200baaf.png",              imageAlt: "Beginner trading course materials"
@@ -187,10 +187,10 @@ export default function LandingPage() {
               id: "mentorship",              title: "Professional Mentorship",              description: "Get guidance from experienced traders who have profited consistently in multiple market conditions",              tag: "Expert Guidance",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AzNZNfYLOTAUE3v2Uk0ml3hSFX/mentorship-session-visualization-showing-1773591631981-b8755c5e.png",              imageAlt: "One-on-one mentorship session"
             },
             {
-              id: "community",              title: "Global Trading Community",              description: "Connect with 100+ traders worldwide, share insights, and grow together in our supportive community",              tag: "Network Growth",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AzNZNfYLOTAUE3v2Uk0ml3hSFX/advanced-trading-strategy-visualization--1773591631424-de9035fe.png",              imageAlt: "Global trading community"
+              id: "community",              title: "Global Trading Community",              description: "Connect with 100+ traders worldwide, share insights, and grow together in our supportive community",              tag: "Network Growth",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AzNZNfYLOTAUE3v2Uk0ml3hSFX/advanced-trading-strategy-visualization--1773591631424-de9035fe.png?_wi=3",              imageAlt: "Global trading community"
             },
             {
-              id: "support",              title: "Ongoing Support",              description: "24/7 support through WhatsApp community and direct mentor assistance for all your trading questions",              tag: "Always Available",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AzNZNfYLOTAUE3v2Uk0ml3hSFX/modern-contact-form-interface-visualizat-1773591631866-d86f1d19.png",              imageAlt: "Support and community chat"
+              id: "support",              title: "Ongoing Support",              description: "24/7 support through WhatsApp community and direct mentor assistance for all your trading questions",              tag: "Always Available",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AzNZNfYLOTAUE3v2Uk0ml3hSFX/modern-contact-form-interface-visualizat-1773591631866-d86f1d19.png?_wi=1",              imageAlt: "Support and community chat"
             }
           ]}
           carouselMode="buttons"
@@ -325,7 +325,7 @@ export default function LandingPage() {
             required: false
           }}
           useInvertedBackground={false}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AzNZNfYLOTAUE3v2Uk0ml3hSFX/modern-contact-form-interface-visualizat-1773591631866-d86f1d19.png"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AzNZNfYLOTAUE3v2Uk0ml3hSFX/modern-contact-form-interface-visualizat-1773591631866-d86f1d19.png?_wi=2"
           imageAlt="Contact us form with trading community"
           mediaAnimation="slide-up"
           mediaPosition="right"
